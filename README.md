@@ -1,1 +1,1 @@
-# AWS-CodePipeline-S3-Game
+# CodePipeline-S3-Game
